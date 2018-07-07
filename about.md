@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Born and raised in Waidhofen an der Ybbs, now living in Vienna.
+I work on all kinds of projects, including banking, apps and governmental software.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bernd.lackinger@warpzone.at](mailto:bernd.lackinger@warpzone.at)
