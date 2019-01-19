@@ -1,7 +1,7 @@
 ---
-layout: microblogpost
-date: '2019-01-19 20:06'
-title: ''
+layout: post
+date: '2019-01-19 20:20'
+title: 'first try iOS SHORTCUTS'
 slug: '190619200645'
 lang: en
 ---
